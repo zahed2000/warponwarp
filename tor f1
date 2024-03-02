@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "AustRiaWaTEr.RaspY-RecipE-71C0.WorKErS.DEV",
+          "serverName": "AUstRIaWATEr.RaSpy-rECIPE-71C0.WOrKERs.DEv",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/?ed=2048",
           "headers": {
-            "Host": "AustRiaWaTEr.RaspY-RecipE-71C0.WorKErS.DEV"
+            "Host": "AUstRIaWATEr.RaSpy-rECIPE-71C0.WOrKERs.DEv"
           }
         },
         "sockopt": {
